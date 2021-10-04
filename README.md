@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Duckosaurus
-- 👀 I’m interested in dots
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 
